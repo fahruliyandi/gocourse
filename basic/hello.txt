@@ -1,0 +1,15 @@
+package basic
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello")
+}
+
+//pada saat go run dijalankan, file .go dicompile
+//dan dibuatkan .exe sementara pada ram untuk eksekusi
+// dan keluarkan output
+
+//compiler : mentranslate code ke bahasa mesin
+//runtime : mengatur execution dari program, alokasi memory, garbage collection, dll
+//garbage collection : proses membersihkan memory yang tidak terpakai
