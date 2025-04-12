@@ -1,5 +1,5 @@
 // tidak ada while di go
-package main
+package basic
 
 import "fmt"
 
